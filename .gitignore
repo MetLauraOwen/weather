@@ -1,2 +1,4 @@
+#ignore all .png files
 *.png 
+#ignore all files in data dir
 data/ 
